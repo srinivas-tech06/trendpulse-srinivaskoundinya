@@ -1,0 +1,96 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49493468,American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career,technology,181,72,NaOH,2026-09-01 19:55:18.036177,0.3956043956043956,True
+49517584,GPU World,technology,312,187,simonpure,2026-09-01 19:55:22.635272,0.597444089456869,True
+49503521,Terence Tao explains 6 essential mathematical concepts [video],technology,511,70,matthewsinclair,2026-09-01 19:55:28.537749,0.13671875,True
+49467636,Dwarf Fortress is getting the mother of all magic updates,worldnews,464,196,Tomte,2026-09-01 19:55:33.504938,0.421505376344086,True
+49508982,Apple caught off guard by AI demand for Mac Mini and Mac Studio,technology,455,511,thm,2026-09-01 19:55:35.291081,1.1206140350877194,True
+49489376,Show HN: Laser Graffiti,entertainment,225,47,con,2026-09-01 19:55:36.241136,0.2079646017699115,True
+49521315,EFF to Courts: Don't Rewrite Copyright over AI Hype,technology,86,80,DeepLogin,2026-09-01 19:55:39.471208,0.9195402298850575,False
+49434518,Codes – typed application outcomes for Kotlin and Java,technology,9,3,aalsanie,2026-09-01 19:55:40.486157,0.3,False
+49516199,Evidence of Fraud in an Influential Study About Procrastination,sports,299,208,Anon84,2026-09-01 19:55:42.477162,0.6933333333333334,True
+49496292,Smartphone LED detects hidden cameras with AI,technology,246,73,geox,2026-09-01 19:55:43.408150,0.29554655870445345,True
+49519902,"NASA: Fill in a name, and you can have an exclusive coordinate in the universe",science,57,52,BearBest,2026-09-01 19:55:50.771530,0.896551724137931,False
+49495171,No country for mediocre mathematicians,worldnews,216,124,reasonableklout,2026-09-01 19:55:51.673198,0.5714285714285714,True
+49506819,Breaking Claude Code Opus 5 Auto Mode,technology,381,116,Recursing,2026-09-01 19:55:52.587273,0.3036649214659686,True
+49515830,Run macOS Software on Linux,worldnews,256,76,Bluestein,2026-09-01 19:55:54.356677,0.29571984435797666,True
+49477925,Interactive pattern discovery in binaries (FF-16-TUI),science,36,3,HexLasso,2026-09-01 19:55:55.289018,0.08108108108108109,False
+49516699,2004 RuneScape fit a multiplayer RPG into 56k dial-up,sports,125,74,fagnerbrack,2026-09-01 19:55:56.263641,0.5873015873015873,False
+49521103,GrapheneOS may skip Pixel 11 over missing hardware security feature,worldnews,7,1,DemiGuru,2026-09-01 19:55:58.227316,0.125,False
+49511007,Launch HN: Almanac (YC S26) – AI that knows your company,technology,56,47,kushagrchitkar,2026-09-01 19:56:03.124843,0.8245614035087719,False
+49519641,"Google Maps renames ""Lake Ontario"" to ""Lake America"" faster than US Government",worldnews,46,22,Levitating,2026-09-01 19:56:04.251032,0.46808510638297873,False
+49455557,Show HN: We built the smallest dual-band aircraft tracker,entertainment,89,22,CoolNamesAllTkn,2026-09-01 19:56:06.979752,0.24444444444444444,False
+49510632,Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines,technology,44,12,kstonekuan,2026-09-01 19:56:08.770110,0.26666666666666666,False
+49518316,AI Can Make You Suck Faster Too,technology,112,116,degamad,2026-09-01 19:56:09.650044,1.0265486725663717,False
+49489939,Global Trade and the United States Navy,worldnews,23,12,Pwntheon,2026-09-01 19:56:18.831766,0.5,False
+49512856,The safest job from AI may be writing,technology,140,191,ilreb,2026-09-01 19:56:21.716446,1.3546099290780143,True
+49508059,Malleable software = solid bases and custom code,worldnews,107,32,tablet,2026-09-01 19:56:24.656911,0.2962962962962963,False
+49497137,A Cyanometer and a Cloud Colourimeter,technology,20,1,Kaibeezy,2026-09-01 19:56:30.963095,0.047619047619047616,False
+49507121,Study: Blue light impairs the eye's ability to distinguish fine detail most,science,89,56,giuliomagnifico,2026-09-01 19:56:32.912261,0.6222222222222222,False
+49505219,P99 0 ms* autocomplete for 240M domain names,technology,220,85,dbalatero,2026-09-01 19:56:35.996670,0.38461538461538464,True
+49515558,How to get a free .arpa domain,technology,27,1,ethanhawksley,2026-09-01 19:56:42.242378,0.03571428571428571,False
+49514895,How we configured OpenTelemetry logs in Rails,technology,30,7,__vivek,2026-09-01 19:56:45.110385,0.22580645161290322,False
+49514729,Show HN: Markdown Viewer and Editor,entertainment,30,15,beerglass,2026-09-01 19:56:51.333156,0.4838709677419355,False
+49506182,A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history,sports,381,87,WithinReason,2026-09-01 19:56:52.245771,0.22774869109947643,True
+49512169,GPU World,technology,9,0,tosh,2026-09-01 19:56:55.962462,0.0,False
+49517768,Show HN: Serendipity – rediscover the web one interesting page at a time,entertainment,6,4,RaCaS123,2026-09-01 19:56:58.137713,0.5714285714285714,False
+49515975,Running a Software Factory Efficiently at Uber Scale,worldnews,10,2,Kaedon,2026-09-01 19:56:59.067299,0.18181818181818182,False
+49519588,Stanisław Lem foretold the current LLM mania in 1964,technology,14,0,latexr,2026-09-01 19:57:01.851978,0.0,False
+49475159,"Show HN: FnScribe – Open-source, offline dictation for macOS",entertainment,36,24,modagent,2026-09-01 19:57:04.669147,0.6486486486486487,False
+49491778,Optimal transport is art: images to collection of optimally placed particles,sports,8,2,adec314,2026-09-01 19:57:10.660112,0.2222222222222222,False
+49507810,1960s theory that Stonehenge was a prehistoric computer,technology,37,47,dabinat,2026-09-01 19:57:11.734818,1.236842105263158,False
+49499867,Haiku R1/beta6 has been released,technology,357,100,metrofun,2026-09-01 19:57:13.061772,0.27932960893854747,True
+49511400,Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme,sports,48,14,dontwordle,2026-09-01 19:57:13.951913,0.2857142857142857,False
+49507908,Show HN: Floe – an open-source plugin for sample libraries – CLAP/VST3/AU,entertainment,20,12,windell,2026-09-01 19:57:15.012525,0.5714285714285714,False
+49516047,Discontinuation of third level domain registrations for the .name TLD [pdf],technology,9,1,greyface-,2026-09-01 19:57:16.907364,0.1,False
+49475568,"Using floci to emulate Cloud platforms (GCP, AWS, Azure)",technology,38,10,linkdd,2026-09-01 19:57:17.865097,0.2564102564102564,False
+49517727,Paint.NET Adds Experimental Wine/Linux Support,technology,26,4,tech234a,2026-09-01 19:57:21.875710,0.14814814814814814,False
+49510532,Rakuten Kobo returns to U.S. retail as sales double,technology,101,111,seam_carver,2026-09-01 19:57:24.636710,1.088235294117647,False
+49508735,Show HN: SlideOps – slides from a repo that flag when they drift from the code,entertainment,21,5,lukicov,2026-09-01 19:57:28.536778,0.22727272727272727,False
+49519193,Indictments against a top extremism researcher and the SPLC,science,8,1,osadalakmal,2026-09-01 19:57:31.707242,0.1111111111111111,False
+49510540,"Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",entertainment,96,29,spetz,2026-09-01 19:57:49.010145,0.29896907216494845,False
+49497819,An implementation of Conway's Game of Life for Windows 3.1x and later,sports,56,14,Bluestein,2026-09-01 19:57:53.720704,0.24561403508771928,False
+49478426,Show HN: NFC Energy-Harvesting PCB Business Card with an MCU,entertainment,217,30,WilsonHarper,2026-09-01 19:57:55.707449,0.13761467889908258,True
+49502214,Cores in space: The core memory module from a 1980 Spacelab computer,science,132,24,pwg,2026-09-01 19:58:00.680165,0.18045112781954886,True
+49438865,"Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",entertainment,96,69,gbin,2026-09-01 19:58:03.756611,0.711340206185567,False
+49510547,Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude,entertainment,9,5,pcbmaker20,2026-09-01 19:58:14.302859,0.5,False
+49479072,Verschlimmbesserung: The Word Your Software Updates Need,worldnews,178,120,speckx,2026-09-01 19:58:50.635938,0.6703910614525139,True
+49490870,Nancy Grace Roman Space Telescope,science,294,104,JumpCrisscross,2026-09-01 19:58:52.563961,0.3525423728813559,True
+49491714,Calibrate Before You Accelerate: Bias Toward Action in a New Role,worldnews,184,80,tuckerwales,2026-09-01 19:58:54.726774,0.43243243243243246,True
+49456819,Europe's last regular standard-gauge steam passenger service,sports,119,27,GungulSurm,2026-09-01 19:58:57.926316,0.225,False
+49447178,Show HN: Typebase – A single-folder back end you write in TypeScript,entertainment,118,47,andrewww-dev,2026-09-01 19:59:19.338352,0.3949579831932773,False
+49508043,"DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books",entertainment,46,2,throwaway2037,2026-09-01 19:59:24.076178,0.0425531914893617,False
+49475979,Interactive Warhammer 40k Galaxy Map,worldnews,161,58,gbxyz,2026-09-01 19:59:31.587782,0.35802469135802467,True
+49515959,Cardiac imaging study found plaque in 34.6% of men in their 30s,science,9,5,brandonb,2026-09-01 19:59:45.610851,0.5,False
+49485532,Does the Sumerian King List Align with Paleoclimate Events?,worldnews,135,84,dev_l1x_be,2026-09-01 19:59:47.499733,0.6176470588235294,True
+49481455,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,science,121,40,stephenchung,2026-09-01 19:59:51.893386,0.32786885245901637,False
+49491175,Trees for a Changing Climate and Resilient Urban Forest (2022),worldnews,59,20,mooreds,2026-09-01 19:59:52.917335,0.3333333333333333,False
+49515738,Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit,entertainment,13,0,spenvo,2026-09-01 19:59:55.783452,0.0,False
+49420524,"Show HN: Galaxium, an experimental WebGPU space explorer",science,135,40,guillaumec,2026-09-01 19:59:57.938206,0.29411764705882354,True
+49486172,Our decision on Cursor following its acquisition by SpaceX,science,844,539,meetpateltech,2026-09-01 20:00:05.879718,0.6378698224852071,True
+49461817,Show HN: The load-bearing vocabulary of Claude,entertainment,700,326,Labo333,2026-09-01 20:00:13.858932,0.46504992867332384,True
+49518062,Show HN: A Bluesky bot that shares Wikipedia links from the HN front page,entertainment,5,2,doctoboggan,2026-09-01 20:00:26.609360,0.3333333333333333,False
+49441316,Global demand for sand spawned a worldwide boom in illegal mining (2015),worldnews,77,29,EndXA,2026-09-01 20:00:32.856097,0.3717948717948718,False
+49476894,Show HN: SubSmith – Turn your own videos into language-learning material,entertainment,76,51,IbrahimF96,2026-09-01 20:00:36.952863,0.6623376623376623,False
+49458875,Humanity has the debate about AI consciousness backwards,worldnews,118,385,semiquaver,2026-09-01 20:00:46.145811,3.235294117647059,False
+49472820,Terminal-Bench-Science: Evaluating AI agents on scientific research workflows,science,117,36,matt_d,2026-09-01 20:00:54.071970,0.3050847457627119,False
+49464314,"MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",science,144,83,pbui,2026-09-01 20:00:57.834571,0.5724137931034483,True
+49432201,How credit card rewards became a $9.2B wealth transfer,worldnews,257,452,conbrian,2026-09-01 20:01:09.914042,1.751937984496124,True
+49468834,Previewing the Model Hardware Standard,worldnews,136,62,surprisetalk,2026-09-01 20:01:21.148342,0.45255474452554745,True
+49464391,"US Government designates host of noblogs.org a ""global terrorist""",worldnews,287,160,robtherobber,2026-09-01 20:01:27.101446,0.5555555555555556,True
+49513130,"I built a multiplayer version of the 4,500-year-old Royal Game of Ur",sports,7,4,potentdream,2026-09-01 20:01:29.676734,0.5,False
+49466715,Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots,worldnews,49,31,Salem_robotics,2026-09-01 20:01:37.493399,0.62,False
+49433573,My life was changed by four sentences in four books,entertainment,43,20,surprisetalk,2026-09-01 20:01:46.325133,0.45454545454545453,False
+49483038,"Show HN: Sesame - a local-first, open-source password manager",entertainment,65,85,d0mkaaa,2026-09-01 20:01:47.499754,1.2878787878787878,False
+49504900,Pentagon installs military influencers in civilian roles,sports,39,3,dataflow,2026-09-01 20:01:54.932223,0.075,False
+49507072,How an MIT research project became a global programming language,science,6,0,theanonymousone,2026-09-01 20:02:02.225131,0.0,False
+49471965,"Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",entertainment,228,58,elyosh,2026-09-01 20:02:23.674595,0.25327510917030566,True
+49505062,"SolarWindow launches 0.85 mm-thick, self-adhesive solar film",entertainment,32,21,thelastgallon,2026-09-01 20:02:35.147769,0.6363636363636364,False
+49516583,OpenAI to Cut Off AI Models for SpaceX-Owned Cursor,science,5,2,m463,2026-09-01 20:02:42.543729,0.3333333333333333,False
+49519431,Trump Mocks Data-Center Opponents as Wanting to Stay 'Backwards and Poor',worldnews,7,5,dkobia,2026-09-01 20:03:12.031693,0.625,False
+49507484,Russian strikes destroy 12M books ahead of Ukraine's first week back at school,entertainment,15,0,robrain,2026-09-01 20:03:30.196302,0.0,False
+49444232,Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War,worldnews,101,25,jnord,2026-09-01 20:03:48.079104,0.24509803921568626,False
+49499924,12TB Steam leak reveals unseen Half-Life 2: Episode 3 builds,sports,37,10,sbulaev,2026-09-01 20:04:15.800872,0.2631578947368421,False
+49490702,GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE),worldnews,320,190,400thecat,2026-09-01 20:04:32.021999,0.5919003115264797,True
+49445252,Disrupting a new covert influence campaign from Russia,sports,98,66,sam_lowry_,2026-09-01 20:04:47.083712,0.6666666666666666,False
+49514285,SpaceX designed an orbital Vera Rubin. Radiation comes next,science,8,1,CrankyBear,2026-09-01 20:04:54.234653,0.1111111111111111,False
+49493244,What we want is a hunter gatherer lifestyle with space age tools (2022),science,81,102,bilsbie,2026-09-01 20:05:01.635490,1.2439024390243902,False
